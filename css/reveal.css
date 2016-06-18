@@ -1877,4 +1877,14 @@ body {
 	visibility: hidden;
 }
 
+.red {
+	color: #EA0909;
+}
 
+.yellow {
+	color: #FFFF00;
+}
+
+.black {
+	color: #000000;
+}
